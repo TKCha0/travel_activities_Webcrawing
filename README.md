@@ -17,4 +17,4 @@ A web crawling project that extracts activity names and prices from travel websi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/travel-crawler.git
+   git clone (https://github.com/TKCha0/travel_activities_Webcrawling)
